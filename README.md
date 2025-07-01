@@ -3,7 +3,7 @@
 
 ### 🚀 Web Developer | 2+ years of experience
 
-I am a Frontend Developer with over 2 years of experience specializing in building and maintaining scalable web applications using **ReactJS, NextJS, and Shopify**. I am passionate about crafting responsive, high-performance UIs and continuously learning new technologies to improve user experience.
+I am a Frontend Developer with over 2 years of experience specializing in building and maintaining scalable web applications. I am passionate about crafting responsive, high-performance UIs and continuously learning new technologies to improve user experience.
 
 
 ## 🤝 **Let's Connect**
